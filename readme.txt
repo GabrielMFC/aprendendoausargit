@@ -1,0 +1,1 @@
+Teste com \n no terminal do Git Bash.
